@@ -1,0 +1,24 @@
+
+
+.cool {
+    background-color: lightcoral;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cooler{
+    font-size: 25px;
+}
+
+#number_2 {
+    background-color: white;
+    color: blue;
+    font-size: 32px;
+}
+
+#number_4 {
+    background-color: lightgreen;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
